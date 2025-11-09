@@ -1,0 +1,4 @@
+{
+  "filter_keywords": ["technology", "AI", "innovation"],
+  "output_path": "./data/scraped_articles.json"
+}
